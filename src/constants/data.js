@@ -78,5 +78,5 @@ const awards = [
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
-
+/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 export default { wines, cocktails, awards };
